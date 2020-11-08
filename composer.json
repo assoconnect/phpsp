@@ -25,6 +25,7 @@
         "phpunit/phpunit": "^9.2"
     },
     "require": {
-        "php": "^7.4"
+        "php": "^7.4",
+        "moneyphp/money": "^3.3"
     }
 }
