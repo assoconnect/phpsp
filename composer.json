@@ -1,24 +1,24 @@
 {
-    "name": "assoconnect/your-repo",
+    "name": "assoconnect/phpsp",
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/assoconnect/your-repo/"
+            "url": "https://github.com/assoconnect/phpsp/"
         }
     ],
     "type": "library",
-    "description": "",
-    "keywords": ["php"],
-    "homepage": "https://github.com/assoconnect/your-repo/",
+    "description": "PHP Abstraction lib for PSP services",
+    "keywords": ["php", "psp"],
+    "homepage": "https://github.com/assoconnect/phpsp/",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AssoConnect\\YourRepo\\": "src/"
+            "AssoConnect\\PHPSP\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "AssoConnect\\YourRepo\\Tests\\": "tests/"
+            "AssoConnect\\PHPSP\\Tests\\": "tests/"
         }
     },
     "require-dev": {
