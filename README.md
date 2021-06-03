@@ -1,6 +1,6 @@
 # PHPSP
 
-[![Build Status](https://travis-ci.org/assoconnect/phpsp.svg?branch=master)](https://travis-ci.org/assoconnect/phpsp)
+[![Build Status](https://github.com/assoconnect/phpsp/actions/workflows/build.yml/badge.svg)](https://github.com/assoconnect/phpsp/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=assoconnect_phpsp&metric=alert_status)](https://sonarcloud.io/dashboard?id=assoconnect_phpsp)
 
 ## Installation
